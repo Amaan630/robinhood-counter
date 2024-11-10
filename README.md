@@ -35,3 +35,8 @@ after: the text to show after the number (non numerical characters would need to
 is-price adds the commas
 
 continuous switches the effect to the continuous counter. By default this is false.
+
+
+## Credit
+
+Effect built from the work in https://github.com/brenjamin/robinhood-clone-vue3-tailwindcss/tree/master
