@@ -2,11 +2,11 @@
 
 Non continuous effect (more like robinhood)
 
-[<img src="https://i.imgur.com/laLjAW9.gif" alt="non-continuous effect" />](https://i.imgur.com/laLjAW9.gif)
+![non-continuous](./non-continuous-ezgif.com-video-to-gif-converter.gif)
 
 Continuous effect (it'll count through the numbers in-between). This effect is a bit less stable, if anyone can figure it out lmk.
 
-[<img src="https://i.imgur.com/laLjAW9.gif" alt="continuous effect" />](https://i.imgur.com/UVLiBXk.gif)
+![continuous](./continuous-ezgif.com-video-to-gif-converter.gif)
 
 ## Installation
 
